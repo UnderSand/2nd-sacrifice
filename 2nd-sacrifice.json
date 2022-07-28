@@ -3,7 +3,7 @@
     "symbol": "CSK",
     "description": "Second sacrifice by UwDegens",
     "seller_fee_basis_points": 1000,
-    "image": "https://raw.githubusercontent.com/UnderSand/assets/main/KILLAM.png",
+    "image": "https://raw.githubusercontent.com/UnderSand/2nd-sacrifice/main/Guzzler.png",
     "external_url": "",
     "attributes": [
         {
@@ -14,7 +14,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/UnderSand/assets/main/KILLAM.png",
+                "uri": "https://raw.githubusercontent.com/UnderSand/2nd-sacrifice/main/Guzzler.png",
                 "type": "image/png"
             }
         ],
